@@ -158,3 +158,10 @@ Conclusion: V70 Elite costs about the same as a new US S25 Edge and more than a 
 - Delivery Nov 6-9 ($15 fastest), before the India trip.
 - vs Best Buy new black $749: saves ~$247.
 - Best candidate so far.
+
+## Back Market review analysis (user-pasted, ~64 reviews seen)
+
+- ~10 of ~64 rated 3.4 or lower; the large majority 4-5 stars, many praise "like new" condition, Premium/Excellent grades.
+- Recurring problems: (1) "unlocked" units actually carrier-locked or behaving locked (T-Mobile lock, Mint Mobile active, flashed OS with no updates, carrier logo at boot); (2) condition worse than grade (deep screen scratch, damaged, display model that was bricked); (3) shipping delays; (4) one data wipe / one virus.
+- Returns were possible but slow in some cases (week-long waits, slow refunds).
+- Relevant to Ultra Mobile (T-Mobile network): confirm unlock and updates work on arrival.
