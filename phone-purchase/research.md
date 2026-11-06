@@ -165,3 +165,30 @@ Conclusion: V70 Elite costs about the same as a new US S25 Edge and more than a 
 - Recurring problems: (1) "unlocked" units actually carrier-locked or behaving locked (T-Mobile lock, Mint Mobile active, flashed OS with no updates, carrier logo at boot); (2) condition worse than grade (deep screen scratch, damaged, display model that was bricked); (3) shipping delays; (4) one data wipe / one virus.
 - Returns were possible but slow in some cases (week-long waits, slow refunds).
 - Relevant to Ultra Mobile (T-Mobile network): confirm unlock and updates work on arrival.
+
+## Amazon listings (user-pasted, 2026-11-06)
+
+- Renewed, Excellent: $448.21, seller YY Wireless, free 90-day refund/replacement, delivery Nov 10 (Prime Nov 7). Good grade $400 (delivery Nov 16). 4.2 stars, 97 ratings (68% 5-star, 11% 1-star).
+- New Titanium Jet Black (Samsung, 1yr US warranty): $722.44, 387 ratings. Cheaper than Best Buy $749.
+- Bands listed include T-Mobile LTE 2/4/12/66/71 and 5G n71/n41/n25/n66, so fine for Ultra Mobile.
+- Compare: Back Market Premium $502 (30-day returns, 1yr warranty).
+
+## Seller check: YY Wireless (Bayshine Trading Inc, Clive IA, since 2009), user-pasted 2026-11-06
+
+- 1,650 ratings in 12 months: 75% 5-star, 15% 1-star; "82% positive". Mediocre for a 3rd-party seller.
+- Visible complaints: sold as unlocked but Verizon-locked; T-Mobile phone stopped working after 2.5 days. Both unlock/network related = main risk for Ultra Mobile (T-Mobile network).
+- Backed by Amazon A-to-z Guarantee + 90-day return on the listing.
+- Verdict: not a trusted seller for this purchase; prefer new from Amazon/Best Buy, or a higher-rated Renewed seller.
+
+## DECISION: purchased (2026-11-06)
+
+Bought: Samsung Galaxy S25 Edge 256GB Titanium Jet Black, Amazon Renewed - Excellent, seller YY Wireless, $448.21. 90-day free refund/replacement. Expected delivery Nov 7-10.
+Day-1 test checklist: see below.
+
+- [ ] Insert Ultra Mobile SIM (or eSIM): call, SMS, mobile data, 5G
+- [ ] Settings > About phone: model number (S937U / S937U1), no carrier lock; Software update runs
+- [ ] Settings > Battery: health / usage; full-day test
+- [ ] Inspect screen, frame, back, camera lenses for scratches/damage
+- [ ] Camera test: 1x, 2x portrait, scenery, video
+- [ ] Check IMEI at Samsung/ T-Mobile for blacklist status
+- If anything fails: start return immediately (trip is 3rd week of November)
